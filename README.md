@@ -16,7 +16,7 @@
   - Allowing systems with lower RAM than required.
 
 ### **User Account Setup**
-- Creates a local administrator account with customizable username and password (`(CHANGE WITH NAME)` and `(CHANGE WITH PASSWORD)` placeholders).
+- Creates a local administrator account with customizable username and password.
 - Enables automatic login for the first user session.
 
 ### **Removing Bloatware and Unnecessary Features**
