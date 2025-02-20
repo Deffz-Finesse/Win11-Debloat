@@ -79,7 +79,7 @@ Embedded scripts handle tasks like:
    ```
 2. **Modify `AutoUnattend.xml`**:
    - Open `AutoUnattend.xml` and replace the placeholders:
-     - `(CHANGE WITH NAME)` → Replace with your desired username.
+     - `(CHANGE WITH NAME)` → Replace with your desired username. Also make sure to remove the brackets!
      - `(CHANGE WITH PASSWORD)` → Replace with your password.
    - Save the file.
 3. **Prepare the Bootable USB**:
